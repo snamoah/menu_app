@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  day: MyString
+  lunch: MyString
+  dinner: MyString
+
+two:
+  day: MyString
+  lunch: MyString
+  dinner: MyString
